@@ -1,4 +1,4 @@
-						                  OrangeHRM
+						      OrangeHRM
 						     
 A greek contributed version of OrangeHRM 4.3.3, Human Resource Management (HRM) System that captures all the essential functionalities required for any enterprise or public organization. Copyright (C) 2006 [OrangeHRM Inc](https://www.orangehrm.com/).
 
